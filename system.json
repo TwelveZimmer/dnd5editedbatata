@@ -1,80 +1,80 @@
 {
   "name": "dnd5ebatata",
-  "title": "DnD5e - Fifth Edition System - Edited Version",
+  "title": "DnD5e - Fifth Edition System - Batata",
   "description": "A system for playing the fifth edition of the worlds most popular role-playing game in the Foundry Virtual Tabletop environment.",
   "version": "1",
-  "author": "Atropos",
+  "author": "Atropos - Edited by Batata",
   "scripts": [],
-  "esmodules": ["dnd5e.js"],
-  "styles": ["dnd5e.css"],
+  "esmodules": ["dnd5ebatata.js"],
+  "styles": ["dnd5ebatata.css"],
   "packs": [
     {
       "name": "heroes",
       "label": "Starter Heroes",
-      "system": "dnd5e",
+      "system": "dnd5ebatata",
       "path": "./packs/heroes.db",
       "entity": "Actor"
     },
     {
       "name": "monsters",
       "label": "Monsters (SRD)",
-      "system": "dnd5e",
+      "system": "dnd5ebatata",
       "path": "./packs/monsters.db",
       "entity": "Actor"
     },
     {
       "name": "items",
       "label": "Items (SRD)",
-      "system": "dnd5e",
+      "system": "dnd5ebatata",
       "path": "./packs/items.db",
       "entity": "Item"
     },
     {
       "name": "tradegoods",
       "label": "Trade Goods (SRD)",
-      "system": "dnd5e",
+      "system": "dnd5ebatata",
       "path": "./packs/tradegoods.db",
       "entity": "Item"
     },
     {
       "name": "spells",
       "label": "Spells (SRD)",
-      "system": "dnd5e",
+      "system": "dnd5ebatata",
       "path": "./packs/spells.db",
       "entity": "Item"
     },
     {
       "name": "classes",
       "label": "Classes (SRD)",
-      "system": "dnd5e",
+      "system": "dnd5ebatata",
       "path": "./packs/classes.db",
       "entity": "Item"
     },
     {
       "name": "classfeatures",
       "label": "Class Features (SRD)",
-      "system": "dnd5e",
+      "system": "dnd5ebatata",
       "path": "./packs/classfeatures.db",
       "entity": "Item"
     },
     {
       "name": "races",
       "label": "Racial Features (SRD)",
-      "system": "dnd5e",
+      "system": "dnd5ebatata",
       "path": "./packs/races.db",
       "entity": "Item"
     },
     {
       "name": "monsterfeatures",
       "label": "Monster Features (SRD)",
-      "system": "dnd5e",
+      "system": "dnd5ebatata",
       "path": "./packs/monsterfeatures.db",
       "entity": "Item"
     },
     {
       "name": "rules",
       "label": "Rules (SRD)",
-      "system": "dnd5e",
+      "system": "dnd5ebatata",
       "path": "./packs/rules.db",
       "entity": "JournalEntry"
     }
